@@ -1,7 +1,7 @@
 import React from "react";
 import { View, ScrollView } from "react-native";
 import styles from "./styles";
-import PageItem from "./TouchableView";
+import PageItem from "../TouchableView";
 
 const {
   rowStyles,
